@@ -2,6 +2,14 @@
 
 ShareMe is a simple social media app that allows users to share their pictures and connect with others in a visual and engaging way. The application is built using React for the frontend, Sanity for content management, and Google authentication for user authentication.
 
+## Screenshots
+
+![Screenshot 1](/screenshots/newname_1.png)
+![Screenshot 2](/screenshots/newname_2.png)
+![Screenshot 3](/screenshots/newname_3.png)
+![Screenshot 4](/screenshots/newname_4.png)
+
+
 ## Features
 
 - **Picture Sharing**: Users can upload and share their pictures with others.
